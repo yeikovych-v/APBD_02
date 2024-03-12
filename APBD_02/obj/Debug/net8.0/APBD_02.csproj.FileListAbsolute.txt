@@ -1,0 +1,14 @@
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\bin\Debug\net8.0\APBD_02.exe
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\bin\Debug\net8.0\APBD_02.deps.json
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\bin\Debug\net8.0\APBD_02.runtimeconfig.json
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\bin\Debug\net8.0\APBD_02.dll
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\bin\Debug\net8.0\APBD_02.pdb
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.AssemblyInfoInputs.cache
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.AssemblyInfo.cs
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.csproj.CoreCompileInputs.cache
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.dll
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\refint\APBD_02.dll
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.pdb
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\APBD_02.genruntimeconfig.cache
+C:\Users\Volodymyr\RiderProjects\APBD_02\APBD_02\obj\Debug\net8.0\ref\APBD_02.dll
