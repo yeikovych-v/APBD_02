@@ -10,8 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a number");
+            Console.Write("Please enter a number: ");
             if (int.TryParse(Console.ReadLine(), out int userInput)) {
+                Console.WriteLine();
                 if(userInput == 7)
                 {
                     Console.WriteLine("You have entered a lucky value!");
