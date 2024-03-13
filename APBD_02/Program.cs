@@ -28,6 +28,7 @@ namespace ConsoleApp1
                 {
                     Console.WriteLine("The value is equal to 0");
                 }
+                
             }
             else
             {
