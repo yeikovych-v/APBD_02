@@ -34,12 +34,18 @@ namespace APBD_02
             {
                 Console.WriteLine("Invalid input. Please enter an integer");
             }
-            Console.WriteLine("Avg is: " + CalcAvgFromArr([2, 3, 5, 8, 9, 10, 99]));
+            Console.WriteLine("Avg is: " + AvgFromArr(2, 3, 5, 8, 9, 10, 99));
+            Console.WriteLine("Max is: " + MaxFromArr(2, 3, 5, 8, 9, 10, 99));
         }
 
-        static decimal CalcAvgFromArr(int[] arr)
+        static decimal AvgFromArr(params int[] arr)
         {
             return (decimal) arr.Average();
+        }
+        
+        static int MaxFromArr(params int[] arr)
+        {
+            return arr.Max();
         }
     }
 }
