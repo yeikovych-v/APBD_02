@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace APBD_02
 {
     internal class Program
     {
@@ -34,6 +34,12 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Invalid input. Please enter an integer");
             }
+            Console.WriteLine("Avg is: " + CalcAvgFromArr([2, 3, 5, 8, 9, 10, 99]));
+        }
+
+        static decimal CalcAvgFromArr(int[] arr)
+        {
+            return (decimal) arr.Average();
         }
     }
 }
