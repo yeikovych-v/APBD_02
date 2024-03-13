@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.Write("Please enter a number: ");
             if (int.TryParse(Console.ReadLine(), out int userInput)) {
+                
                 Console.WriteLine();
                 if(userInput == 7)
                 {
