@@ -38,9 +38,10 @@ namespace APBD_02
             Console.WriteLine("Max is: " + MaxFromArr(2, 3, 5, 8, 9, 10, 99));
         }
 
-        static decimal AvgFromArr(params int[] arr)
+        static decimal AvgFromArr(params int[] intArr)
         {
-            return (decimal) arr.Average();
+            int sum = intArr.Sum();
+            return ((decimal) sum / intArr.Length);
         }
         
         static int MaxFromArr(params int[] arr)
